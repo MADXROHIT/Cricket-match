@@ -1,0 +1,19 @@
+{
+  "force_update": false,
+  "message": "New version available, please update app.",
+
+  "apps":[
+   {
+      "name":"𝐓𝐎𝐃𝐀𝐘 𝐋𝐈𝐕𝐄 𝐌𝐀𝐓𝐂𝐇 ",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFGluyB8rp4BMJhq0jDDXFreDL3IEaHsH0Kfi8hEqo4g&s=10",
+      "url":"https://matcheslinkz.pages.dev/ipl/?id=1108"
+    },
+    
+
+  {
+      "name":"𝐓𝐎𝐃𝐀𝐘𝐒 𝐋𝐈𝐕𝐄 𝐌𝐀𝐓𝐂𝐇 𝐒-𝟐 ",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQV4WB1hiosfVVGVoMHgoRSykDMUM10F3XQXCeFDG2w&s",
+      "url":"https://capable-blini-776d82.netlify.app/"
+    }
+  ]
+}
